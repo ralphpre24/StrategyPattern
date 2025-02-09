@@ -92,3 +92,6 @@ public class Character {
 
 }
 
+UML DIAGRAM:
+![17391111532215669570443870649664](https://github.com/user-attachments/assets/8359217b-6d8f-46bd-a9d7-5f2349413494)
+
